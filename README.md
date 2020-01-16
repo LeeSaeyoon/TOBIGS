@@ -1,2 +1,2 @@
-# tobigs_sy
+# Tobigs_sy
 For uploading assignments
